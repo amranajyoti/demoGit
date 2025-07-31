@@ -6,5 +6,6 @@ public class GitPractic {
     //fetch example
     //pull example
     //pull example 2
-    //edit a commit
+    //edit a commit-1
+    //edit a commit-2
 }
