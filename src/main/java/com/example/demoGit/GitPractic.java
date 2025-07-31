@@ -5,4 +5,5 @@ public class GitPractic {
     // 3rd commit..ok
     //fetch example
     //pull example
+    //pull example 2
 }
