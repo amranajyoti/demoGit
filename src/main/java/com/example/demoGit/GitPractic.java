@@ -8,4 +8,5 @@ public class GitPractic {
     //pull example 2
     //edit a commit-1
     //edit a commit-2
+    //reset branch to a specific commit - 1
 }
