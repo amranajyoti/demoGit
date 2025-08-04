@@ -12,4 +12,5 @@ public class GitPractic {
     //reset branch to a specific commit - 2
     //git merge conflict local
     //commit in user branch
+    //1st commit in feature1 branch
 }
