@@ -10,4 +10,5 @@ public class GitPractic {
     //edit a commit-2
     //reset branch to a specific commit - 1
     //reset branch to a specific commit - 2
+    //git merge conflict remote
 }
