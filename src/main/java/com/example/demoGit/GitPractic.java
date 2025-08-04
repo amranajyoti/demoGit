@@ -16,4 +16,6 @@ public class GitPractic {
     //1st commit in feature1 branch
     //2nd commit in feature1 branch
     //new commit for cherry picking in master branch
+    //1st commet in cherry branch
+    //2nd commet in cherry branch
 }
